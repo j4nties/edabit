@@ -1,0 +1,15 @@
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.csproj.AssemblyReference.cache
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.GeneratedMSBuildEditorConfig.editorconfig
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.AssemblyInfoInputs.cache
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.AssemblyInfo.cs
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.csproj.CoreCompileInputs.cache
+/home/janties/workSpace/c#/edabit/bin/Debug/net7.0/edabit
+/home/janties/workSpace/c#/edabit/bin/Debug/net7.0/edabit.deps.json
+/home/janties/workSpace/c#/edabit/bin/Debug/net7.0/edabit.runtimeconfig.json
+/home/janties/workSpace/c#/edabit/bin/Debug/net7.0/edabit.dll
+/home/janties/workSpace/c#/edabit/bin/Debug/net7.0/edabit.pdb
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.dll
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/refint/edabit.dll
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.pdb
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/edabit.genruntimeconfig.cache
+/home/janties/workSpace/c#/edabit/obj/Debug/net7.0/ref/edabit.dll
