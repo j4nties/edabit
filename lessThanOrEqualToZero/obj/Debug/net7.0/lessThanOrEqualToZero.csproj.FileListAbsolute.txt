@@ -1,0 +1,15 @@
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/bin/Debug/net7.0/lessThanOrEqualToZero
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/bin/Debug/net7.0/lessThanOrEqualToZero.deps.json
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/bin/Debug/net7.0/lessThanOrEqualToZero.runtimeconfig.json
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/bin/Debug/net7.0/lessThanOrEqualToZero.dll
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/bin/Debug/net7.0/lessThanOrEqualToZero.pdb
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.csproj.AssemblyReference.cache
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.GeneratedMSBuildEditorConfig.editorconfig
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.AssemblyInfoInputs.cache
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.AssemblyInfo.cs
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.csproj.CoreCompileInputs.cache
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.dll
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/refint/lessThanOrEqualToZero.dll
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.pdb
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/lessThanOrEqualToZero.genruntimeconfig.cache
+/home/janties/workSpace/c#/edabit/lessThanOrEqualToZero/obj/Debug/net7.0/ref/lessThanOrEqualToZero.dll
