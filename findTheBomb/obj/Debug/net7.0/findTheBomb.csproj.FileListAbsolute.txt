@@ -1,0 +1,15 @@
+/home/janties/workSpace/c#/edabit/findTheBomb/bin/Debug/net7.0/findTheBomb
+/home/janties/workSpace/c#/edabit/findTheBomb/bin/Debug/net7.0/findTheBomb.deps.json
+/home/janties/workSpace/c#/edabit/findTheBomb/bin/Debug/net7.0/findTheBomb.runtimeconfig.json
+/home/janties/workSpace/c#/edabit/findTheBomb/bin/Debug/net7.0/findTheBomb.dll
+/home/janties/workSpace/c#/edabit/findTheBomb/bin/Debug/net7.0/findTheBomb.pdb
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.csproj.AssemblyReference.cache
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.GeneratedMSBuildEditorConfig.editorconfig
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.AssemblyInfoInputs.cache
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.AssemblyInfo.cs
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.csproj.CoreCompileInputs.cache
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.dll
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/refint/findTheBomb.dll
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.pdb
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/findTheBomb.genruntimeconfig.cache
+/home/janties/workSpace/c#/edabit/findTheBomb/obj/Debug/net7.0/ref/findTheBomb.dll
