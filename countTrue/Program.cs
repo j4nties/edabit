@@ -26,3 +26,4 @@ class Problem
         return counter;
     }
 }
+
