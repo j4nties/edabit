@@ -1,0 +1,15 @@
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.csproj.AssemblyReference.cache
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.GeneratedMSBuildEditorConfig.editorconfig
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.AssemblyInfoInputs.cache
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.AssemblyInfo.cs
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.csproj.CoreCompileInputs.cache
+/home/janties/workSpace/c#/edabit/uncensored/bin/Debug/net7.0/uncensored
+/home/janties/workSpace/c#/edabit/uncensored/bin/Debug/net7.0/uncensored.deps.json
+/home/janties/workSpace/c#/edabit/uncensored/bin/Debug/net7.0/uncensored.runtimeconfig.json
+/home/janties/workSpace/c#/edabit/uncensored/bin/Debug/net7.0/uncensored.dll
+/home/janties/workSpace/c#/edabit/uncensored/bin/Debug/net7.0/uncensored.pdb
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.dll
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/refint/uncensored.dll
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.pdb
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/uncensored.genruntimeconfig.cache
+/home/janties/workSpace/c#/edabit/uncensored/obj/Debug/net7.0/ref/uncensored.dll
