@@ -1,0 +1,15 @@
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.csproj.AssemblyReference.cache
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.GeneratedMSBuildEditorConfig.editorconfig
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.AssemblyInfoInputs.cache
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.AssemblyInfo.cs
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.csproj.CoreCompileInputs.cache
+/home/janties/workSpace/c#/edabit/countTrue/bin/Debug/net7.0/countTrue
+/home/janties/workSpace/c#/edabit/countTrue/bin/Debug/net7.0/countTrue.deps.json
+/home/janties/workSpace/c#/edabit/countTrue/bin/Debug/net7.0/countTrue.runtimeconfig.json
+/home/janties/workSpace/c#/edabit/countTrue/bin/Debug/net7.0/countTrue.dll
+/home/janties/workSpace/c#/edabit/countTrue/bin/Debug/net7.0/countTrue.pdb
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.dll
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/refint/countTrue.dll
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.pdb
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/countTrue.genruntimeconfig.cache
+/home/janties/workSpace/c#/edabit/countTrue/obj/Debug/net7.0/ref/countTrue.dll
