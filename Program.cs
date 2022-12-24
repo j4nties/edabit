@@ -1,15 +1,12 @@
 ﻿// Creating Objects
 Problem test1 = new Problem();
-Problem test2 = new Problem();
 
-bool result1, result2;
+bool result;
 
-result1 = test1.IsEqual(5,6);
-result2 = test1.IsEqual(3,3);
+result = test1.lessThan100(96,4);
 
 // Printing Variables
-Console.WriteLine(result1);
-Console.WriteLine(result2);
+Console.WriteLine(result);
 
 // Class
 class Problem
@@ -24,6 +21,16 @@ class Problem
         }else
         {
             return false;
+        }
+    }
+    public bool lessThan100(int num1, int num2)
+    {
+        if( num1 + num2 >= 100)
+        {
+            return false;
+        }else
+        {
+            return true;
         }
     }
 }
