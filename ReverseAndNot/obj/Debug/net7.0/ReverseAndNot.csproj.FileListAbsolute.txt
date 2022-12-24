@@ -1,0 +1,15 @@
+/home/janties/workSpace/c#/edabit/ReverseAndNot/bin/Debug/net7.0/ReverseAndNot
+/home/janties/workSpace/c#/edabit/ReverseAndNot/bin/Debug/net7.0/ReverseAndNot.deps.json
+/home/janties/workSpace/c#/edabit/ReverseAndNot/bin/Debug/net7.0/ReverseAndNot.runtimeconfig.json
+/home/janties/workSpace/c#/edabit/ReverseAndNot/bin/Debug/net7.0/ReverseAndNot.dll
+/home/janties/workSpace/c#/edabit/ReverseAndNot/bin/Debug/net7.0/ReverseAndNot.pdb
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.csproj.AssemblyReference.cache
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.GeneratedMSBuildEditorConfig.editorconfig
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.AssemblyInfoInputs.cache
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.AssemblyInfo.cs
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.csproj.CoreCompileInputs.cache
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.dll
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/refint/ReverseAndNot.dll
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.pdb
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ReverseAndNot.genruntimeconfig.cache
+/home/janties/workSpace/c#/edabit/ReverseAndNot/obj/Debug/net7.0/ref/ReverseAndNot.dll
