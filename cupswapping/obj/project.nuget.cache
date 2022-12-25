@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNjhKA9goPZJLZdufaH5LzIvRwYDQVlaUz6Mku7NJZTRTqfNhmcwZ4ldODSyRyjAjwVse4pSdMXHUpUZa4F7jg==",
+  "success": true,
+  "projectFilePath": "/home/janties/workSpace/c#/edabit/cupswapping/cupswapping.csproj",
+  "expectedPackageFiles": [
+    "/home/janties/.nuget/packages/morelinq/3.3.2/morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.csproj.AssemblyReference.cache
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.GeneratedMSBuildEditorConfig.editorconfig
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.AssemblyInfoInputs.cache
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.AssemblyInfo.cs
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.csproj.CoreCompileInputs.cache
+/home/janties/workSpace/c#/edabit/cupswapping/bin/Debug/net7.0/cupswapping
+/home/janties/workSpace/c#/edabit/cupswapping/bin/Debug/net7.0/cupswapping.deps.json
+/home/janties/workSpace/c#/edabit/cupswapping/bin/Debug/net7.0/cupswapping.runtimeconfig.json
+/home/janties/workSpace/c#/edabit/cupswapping/bin/Debug/net7.0/cupswapping.dll
+/home/janties/workSpace/c#/edabit/cupswapping/bin/Debug/net7.0/cupswapping.pdb
+/home/janties/workSpace/c#/edabit/cupswapping/bin/Debug/net7.0/MoreLinq.dll
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.csproj.CopyComplete
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.dll
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/refint/cupswapping.dll
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.pdb
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/cupswapping.genruntimeconfig.cache
+/home/janties/workSpace/c#/edabit/cupswapping/obj/Debug/net7.0/ref/cupswapping.dll
